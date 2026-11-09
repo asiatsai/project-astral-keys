@@ -1,0 +1,12 @@
+幻星琴域／Project Astral Keys V1.0 Web 試玩版
+
+將本 ZIP 完整解壓到靜態網站的目錄，或原樣上傳到 itch.io 的 HTML Game 頁面。index.html 在 ZIP 根目錄。請用 HTTP 或 HTTPS 開啟，直接雙擊本機 index.html 不會正常載入所有遊戲資源。
+
+電腦：Z、X、C、空白、逗號、句號、斜線對應七軌。
+手機：橫向握持，觸碰畫面下方的七個鍵帽。雙鍵可用兩指一起點按。
+首次進入請點「開始遊戲」，以便瀏覽器允許音訊播放。
+本版本使用靜態背景，以降低手機載入與播放負擔。
+
+Godot Engine 授權：https://godotengine.org/license/
+Godot 第三方元件：https://github.com/godotengine/godot/blob/4.7.2-stable/COPYRIGHT.txt
+Noto Sans TC 字體授權見 NotoSansTC-OFL.txt。
